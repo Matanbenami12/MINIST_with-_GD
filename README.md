@@ -1,1 +1,1 @@
-# MINIST_with-_GD
+# MINIST_with_GD
